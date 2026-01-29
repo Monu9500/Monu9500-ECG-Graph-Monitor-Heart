@@ -21,9 +21,3 @@ Our Heart Rate Monitor offers the following features:
 - Adjustable measurement settings to cater to various scenarios.
 - Data logging and export capabilities for further analysis.
 - Detailed documentation for developers and users.
-
-## Contributors
-- [Sajitha Madugalle](https://github.com/Sajitha-Madugalle)
-- [Devnith Wijesinghe](https://github.com/devnithw)
-- [Tashin Kavishan](https://github.com/kavishanGT)
-- [Charles Jhone Peter](https://github.com/Charlie174)
